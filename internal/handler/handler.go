@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	gen "github.com/diofanto33/password-gen/internal/generator"
+	gen "github.com/diofanto33/web-pass-generator/internal/generator"
 )
 
 func GeneratorHandler(w http.ResponseWriter, r *http.Request) {

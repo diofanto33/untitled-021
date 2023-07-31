@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/diofanto33/password-gen/internal/handler"
+	"github.com/diofanto33/web-pass-generator/internal/handler"
 )
 
 func main() {
